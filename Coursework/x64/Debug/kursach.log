@@ -1,0 +1,6 @@
+﻿  System.cpp
+C:\Users\Олег Басс\source\repos\kursach\System.cpp(63,15): warning C4101: header: неиспользованная локальная переменная
+C:\Users\Олег Басс\source\repos\kursach\System.cpp(65,9): warning C4101: n: неиспользованная локальная переменная
+  Tower.cpp
+  Создание кода...
+  kursach.vcxproj -> C:\Users\Олег Басс\source\repos\kursach\x64\Debug\kursach.exe
